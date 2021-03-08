@@ -9,4 +9,4 @@ const Todo_list = (prop) => {
             </div>
             
         </>)
-}export default Todo_list;
+};export default Todo_list;
