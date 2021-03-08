@@ -1,12 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Apps from './Keep_App';
+import AddIcon from '@material-ui/icons/Add';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+ReactDOM.render(   <Keep_App />, document.getElementById('root'));
+

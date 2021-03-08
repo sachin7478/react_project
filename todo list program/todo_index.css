@@ -11,9 +11,9 @@
     width: 25%; height: 80vh;  background: #f4f4f4;  box-shadow: 5px,5px,25px,-5px black;
     border-radius: 15px;
 }
-.h1{
-    color: white; background-color: transparent; padding:6px, 0,2px, 0; margin-bottom: 10px;
-    box-shadow: 5px,5px,15px,-5px black;    background-color: #8566aa;   color: #fff;
+h1{
+    background-color: transparent; padding:6px, 0,2px, 0; margin-bottom: 10px;
+    box-shadow: 5px,5px,15px,-5px black;    background: #8566aa;   color: #fff;
 }
 input {
     text-align: center; height: 30px; top : 10px; border: none; background: transparent; font-size: 20px;
