@@ -1,18 +1,14 @@
-import react from 'react';
-import { Link, NavLink } from 'react-router-dom';
-const NamMenus = () => {
+import { NavLink } from 'react-router-dom';
+import Toolbar from '@material-ui/core/Toolbar';
+const NavMenus = () => {
     return(<>
-        {/* Client side with active class functions, does not reloads the page */}
-        {/* exact: used to maintain dynamic active class, if not applies activeClass to all links */}
-        <NavLink activeClassName="active_class" exact to="/contact">Contact : navLink</NavLink>
-        <NavLink activeClassName="active_class" exact to="/about">About : navLink</NavLink>
-                            <br />
-        {/* Client side with NO active class  functions, does not reloads the page */}
-        <Link to='/contact'>Contact : Link</Link>
-        <Link to='/about'>About : Link</Link>
-                            <br />
-        {/* server side rendering , It reloads the page*/}
-        <a href='/contact'>Contact : a</a> 
-        <a href='/about'>About :a</a>
+     <Toolbar>      {/* NavMenu component rendered inside App.jsx file */}
+        <NavLink activeClassName="active_class" exact to="/">Home</NavLink>
+        <NavLink activeClassName="active_class" exact to="/home/profile">Profile</NavLink>
+        <NavLink activeClassName="active_class" exact to="/contact">Contact</NavLink>
+        <NavLink activeClassName="active_class" exact to="/about">About</NavLink>
+        <NavLink activeClassName="active_class" exact to="/service1">Service1</NavLink>
+        <NavLink activeClassName="active_class" exact to="/service2">Service2</NavLink>
+    </Toolbar>
     </>)
-}; export default NamMenus;
+}; export default NavMenus;
