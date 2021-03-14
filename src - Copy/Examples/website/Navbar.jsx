@@ -29,10 +29,6 @@ export default function Navbar() {
                                     <li className="nav-item">
                                         <NavLink activeClassName="active" exact className="nav-link" to="/contact">Contact</NavLink>
                                     </li>
-                                    <li className="nav-item">
-                                        <NavLink activeClassName="active" exact className="nav-link" to="/programs">Programs</NavLink>
-                                    </li>
-                                    
                                 </ul>
 
                                 </div>
