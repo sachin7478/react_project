@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="126012b3-c4c0-473d-bb8a-cc8ef828ce87" name="Default Changelist" comment="updating repo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pkD4SrMqCkjcJDJTXWo3hTMv9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126012b3-c4c0-473d-bb8a-cc8ef828ce87" name="Default Changelist" comment="" />
+      <created>1615718002921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615718002921</updated>
+      <workItem from="1615718005570" duration="1455000" />
+    </task>
+    <task id="LOCAL-00001" summary="updating repo">
+      <created>1615718256338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615718256338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating repo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="382" key="#Notifications" timestamp="1615719194230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="382" key="#Notifications/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615719194230" />
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1615719420060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615719420060" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1615719365486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615719365486" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1615719460779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615719460779" />
+    <state x="743" y="222" key="RollbackChangesDialog" timestamp="1615719372065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="222" key="RollbackChangesDialog/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615719372065" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1615718264426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615718264426" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615719238244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615719238244" />
+    <state x="762" y="366" key="git4idea.ui.GitUnstashDialog" timestamp="1615718112041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="366" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615718112041" />
+  </component>
+</project>
