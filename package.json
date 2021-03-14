@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^12.8.1",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.0-alpha1",
+    "env-cmd": "^10.1.0",
     "install-peerdeps": "^3.0.3",
     "node-sass": "^5.0.0",
     "popper.js": "^1.16.1",
@@ -52,7 +53,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sachin7478/react_project2.git"
