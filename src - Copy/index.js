@@ -9,7 +9,7 @@ import App from './Examples/website/App';
 //import App from './Examples/todo list program/App';
 
 reactDom.render(<>
-                <BrowserRouter>
-                    <App /> 
-                </BrowserRouter> </> 
+				<BrowserRouter>
+					<App />
+				</BrowserRouter> </>
 ,document.getElementById('root'));
