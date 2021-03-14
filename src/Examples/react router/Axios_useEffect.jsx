@@ -2,7 +2,7 @@ import react,{ useEffect, useState } from 'react';
 import axios from 'axios';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
-let App = () => { 
+let Axios_useEffect = () => { 
     const [num,setNum] = useState(1);
     const [name, setName] = useState(1);
     const [moves, setMoves] = useState();
@@ -29,4 +29,4 @@ let App = () => {
         </>
     )
 }
-export default App;
+export default Axios_useEffect;

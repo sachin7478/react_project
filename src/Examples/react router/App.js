@@ -1,7 +1,8 @@
 import {Route, Switch, Redirect} from 'react-router-dom';   import react, { useState } from 'react';
 import {Contact,About,ErrorPage,Service1, Service2} from './Pages';
 import Home from './Home';                        import NavMenus from './NavMenus';
-import Search from './Search.jsx';
+import Search from './Search.jsx';               import Axios_useEffect from './Axios_useEffect';
+import SearchWhether from './SearchWhether';
 const App = () => {
     return(<>  <NavMenus /> {/*All Navlinks here*/}
         <Switch>
@@ -10,10 +11,11 @@ const App = () => {
             <Route exact path='/search' component={Search} />
             <Route exact path='/home' component={Home} />
             <Route exact path='/home/:first' component={Home}/>{/*params accesible at home component*/}
-            <Route exact path='/home/:first/:second' component={Home} /> 
+            <Route exact path='/home/:first/:second' component={Home} />
                             {/*Props sent to services page*/}
-            <Route path='/service1' render={ () => <Service1 name='service 1123' / >} />{}
-            <Route path='/service2' component={ () => <Service2 name='service 2' / >} />
+            <Route path='/service1' render={ () => <Service1 name='service 1123' / >} />{/* or component={ () => <Service2 name='service 2' / > */}
+            <Route path='/axiosUseEffect' component={Axios_useEffect} />
+            <Route path='/searchWhether' component={SearchWhether} />
             <Route component={ErrorPage} />
             {/* If not matching path renders the error component*/}
             <Redirect to='/' /> { /*if not exact path found.  | optional to Error page */ }
