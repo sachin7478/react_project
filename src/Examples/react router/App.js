@@ -11,7 +11,7 @@ const App = () => {
             <Route exact path='/search' component={Search} />
             <Route exact path='/home' component={Home} />
             <Route exact path='/home/:first' component={Home}/>{/*params accesible at home component*/}
-            <Route exact path='/home/:first/:second' component={Home} />
+            <Route exact path='/home/:first/:second' component={Home} /> 
                             {/*Props sent to services page*/}
             <Route path='/service1' render={ () => <Service1 name='service 1123' / >} />{/* or component={ () => <Service2 name='service 2' / > */}
             <Route path='/axiosUseEffect' component={Axios_useEffect} />
