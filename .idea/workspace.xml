@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:new" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:new" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="918ea229-1049-433e-96fc-86746c405ff9" name="Default Changelist" comment="Revert &quot;image search filter program, router dom redirect&quot;&#10;&#10;This reverts commit 145ab1e4">
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavMenus.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diff_render_component_route.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react router.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="updating repo">
+      <created>1615720766722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615720766722</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating repo">
+      <created>1615720859764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615720859764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;image search filter program, router dom redirect&quot;&#10;&#10;This reverts commit 145ab1e4">
+      <created>1615721199591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721199591</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;image search filter program, router dom redirect&quot;&#10;&#10;This reverts commit 145ab1e4">
+      <created>1615721350977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721350977</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;delete duplicate folder&quot;&#10;&#10;This reverts commit d9da2ea0">
+      <created>1615721737310</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721737310</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;Updates&quot;&#10;&#10;This reverts commit b1007f89">
+      <created>1615721863242</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721863242</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;Added website example&quot;&#10;&#10;This reverts commit 78ea10b4">
+      <created>1615721976281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721976281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Revert &quot;Added website example&quot;&#10;&#10;This reverts commit 78ea10b4">
+      <created>1615722142141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615722142141</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;delete duplicate folder&quot;&#10;&#10;This reverts commit d9da2ea0">
+      <created>1615722282220</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615722282220</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;Added website example&quot;&#10;&#10;This reverts commit 78ea10b4">
+      <created>1615722311776</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615722311776</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Revert &quot;delete duplicate folder&quot;&#10;&#10;This reverts commit d9da2ea0">
+      <created>1615722562728</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615722562728</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating repo" />
+    <MESSAGE value="Revert &quot;image search filter program, router dom redirect&quot;&#10;&#10;This reverts commit 145ab1e4" />
+    <MESSAGE value="Revert &quot;Updates&quot;&#10;&#10;This reverts commit b1007f89" />
+    <MESSAGE value="Revert &quot;Added website example&quot;&#10;&#10;This reverts commit 78ea10b4" />
+    <MESSAGE value="Revert &quot;delete duplicate folder&quot;&#10;&#10;This reverts commit d9da2ea0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;delete duplicate folder&quot;&#10;&#10;This reverts commit d9da2ea0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1615722561380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615722561380" />
+    <state x="241" y="90" width="1536" height="861" key="DiffContextDialog" timestamp="1615722924363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="241" y="90" width="1536" height="861" key="DiffContextDialog/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615722924363" />
+    <state width="938" height="274" key="GridCell.Tab.0.bottom" timestamp="1615721481680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615721481680" />
+    <state width="938" height="274" key="GridCell.Tab.0.center" timestamp="1615721481679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615721481679" />
+    <state width="938" height="274" key="GridCell.Tab.0.left" timestamp="1615721481679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615721481679" />
+    <state width="938" height="274" key="GridCell.Tab.0.right" timestamp="1615721481679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615721481679" />
+    <state x="0" y="94" key="MergeDialog" timestamp="1615721829049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="94" key="MergeDialog/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615721829049" />
+    <state x="321" y="387" width="750" height="283" key="MultipleFileMergeDialog" timestamp="1615722135086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="321" y="387" width="750" height="283" key="MultipleFileMergeDialog/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615722135086" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1615722565831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615722565831" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615722466158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.7.1920.1040@0.0.1920.1040" timestamp="1615722466158" />
+  </component>
+</project>
