@@ -1,10 +1,10 @@
 import react from 'react';
 import { Route, Switch, useLocation, NavLink, Redirect } from 'react-router-dom';
-import { RoutedTabs, NavTab } from "react-router-tabs";
+import { RoutedTabs, NavTab } from 'react-router-tabs';
 
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../../../node_modules/bootstrap/dist/js/bootstrap';
-// import '../../../node_modules/bootstrap/dist/js/bootstrap.bundle';
+import '../../../node_modules/bootstrap/dist/js/bootstrap.bundle';
 import './index.css';
 import Home from './Home';
 import About from './About';
