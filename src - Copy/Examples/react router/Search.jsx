@@ -17,6 +17,11 @@ const Search = () => {
                 placeholder="Search image here ..." 
                 onChange={changeImage} value={txt}/>
             { "" !== txt ? <ImageRes source={txt}/> : null }
+
+            <ImageRes source={txt}/>
+            <ImageRes source={txt}/>
+            <ImageRes source={txt}/>
+            <ImageRes source={txt}/>
         </div>
             
     </>)

@@ -1,7 +1,7 @@
 import './aos.css';
 import ArrayCards,{MyCard} from './ArrayCards';
 export default function Features() {
-
+    console.log(ArrayCards);
     return(
         <>
         <section id="features" className="services">
@@ -20,6 +20,8 @@ export default function Features() {
                     }
 					
 				</div>
+
+				
 			</div>
 		</section>
         </>)

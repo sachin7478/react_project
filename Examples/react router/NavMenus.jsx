@@ -6,7 +6,7 @@ const NavMenus = () => {
         <NavLink activeClassName="active_class" exact to="/">Home</NavLink>
         <NavLink activeClassName="active_class" exact to="/home/profile">Profile</NavLink>
         <NavLink activeClassName="active_class" exact to="/contact">Contact</NavLink>
-        <NavLink activeClassName="active_class" exact to="/search">Search</NavLink>
+        <NavLink activeClassName="active_class" exact to="/about">About</NavLink>
         <NavLink activeClassName="active_class" exact to="/service1">Service1</NavLink>
         <NavLink activeClassName="active_class" exact to="/service2">Service2</NavLink>
     </Toolbar>
