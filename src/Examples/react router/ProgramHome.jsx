@@ -1,5 +1,5 @@
 import { useParams, useRouteMatch, useLocation, useHistory, Link  } from 'react-router-dom';
-const Home = () => {
+const ProgramHome = () => {
     const { first,second } = useParams(); // first and second are declared as paramater in routs in App.js file       
     const { url, path } = useRouteMatch();
     const history = useHistory();
@@ -21,4 +21,4 @@ const Home = () => {
         <button onClick={()=> history.replace('/home')} >Replace with service1</button>
     </>);
 };
-export default Home; 
+export default ProgramHome; 

@@ -4,7 +4,7 @@ import CreateNote from './CreateNote';
 import Footer from './Footer';
 import './index.css';
 import Note from './Note';
-export default function App() {
+export default function KeepApp() {
     const [noteList,updateNoteList] = useState([]);
     const addNote = ( note ) => { 
         updateNoteList( ( prevNotes ) => {

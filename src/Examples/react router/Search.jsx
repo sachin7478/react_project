@@ -11,7 +11,7 @@ const Search = () => {
     }
 
     return(<>
-        <div className="center_div">
+        <div className="center_div1">
             <input type="text" 
                 className="form-control mb-20" 
                 placeholder="Search image here ..." 

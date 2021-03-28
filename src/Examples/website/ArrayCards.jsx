@@ -52,7 +52,6 @@ let ArrayCards=	[
                     },
                 ]
     const MyCard = ( prop ) => {
-        console.log(prop.current.img);
         return(<>
                 <div className="col-md-6 col-lg-3 d-flex align-items-stretch my-5 mb-lg-0">
                     <div className="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

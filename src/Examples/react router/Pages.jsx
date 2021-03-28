@@ -1,9 +1,6 @@
 import { NavLink } from 'react-router-dom';
-const Contact = () => {
-    return(<><h1>This is Contact page</h1>  </>)
-}; 
 
-const About = () => {
+const About1 = () => {
     return(<><h1>This is about page</h1>  </>)  
 }
 
@@ -20,4 +17,4 @@ const ErrorPage = () => {
     <NavLink to='/'>Go Back</NavLink>
     </>)
 }; export default ErrorPage;
-export { About, Contact, ErrorPage,Service1, Service2 };
+export { About1, ErrorPage,Service1, Service2 };

@@ -7,19 +7,20 @@
 .main_div {
     width: 100%; height: 100vh;  background: cornflowerblue;  display: flex;  flex-direction: row;
     justify-content: center; align-items: center;  text-align: center;}
-.center_div {
-    width: 25%; height: 80vh;  background: #f4f4f4;  box-shadow: 5px,5px,25px,-5px black;
+.center_div2 {
+    width: 40%; height: 80vh;  background: #f4f4f4;  box-shadow: 5px,5px,25px,-5px black;
     border-radius: 15px;
 }
-h1{
+.center_div2 h1{
     background-color: transparent; padding:6px, 0,2px, 0; margin-bottom: 10px;
     box-shadow: 5px,5px,15px,-5px black;    background: #8566aa;   color: #fff;
+    border-radius: 12px;
 }
-input {
+.center_div2 input {
     text-align: center; height: 30px; top : 10px; border: none; background: transparent; font-size: 20px;
     font-weight: 500; width: 60%; border-bottom: 2px solid  #8566aa; outline:none
 }
-button {
+.center_div2 button {
     min-height: 40px;width: 40px;border-radius: 50%; border-color: transparent; background-color: #8566aa;
     color:#fff; font-size: 40px;border:none; outline:none; margin-left:10px;
 }
@@ -36,10 +37,8 @@ ol li{
 .todo_style {
     display:flex; flex-direction: row; justify-content: left;align-items: center;
 }
-.todo_style .fa-times {
-    width: 20px; height: 20px; display: flex; justify-content: center; align-items: center; background-color: thistle;
-    border-radius: 50%; margin:0 15px 0 35px; color:aliceblue;
-}
-.todo_style .fa-times:hover {
+
+.todo_style svg:hover {
     color:crimson;
+    cursor:pointer;
 }

@@ -1,8 +1,8 @@
 import reactDom from 'react-dom';  
-import './index.css';
+import '../todo list program/index.css';
 import react, { useState } from 'react'; 
 import Todo_list from './Todo_list';
-let App = () => {
+let TodoApp = () => {
     let [inputList, setInputList] = useState('');   let [items, setItems] = useState([]);
     let itemEvent = (e) => { setInputList(e.target.value);   }
     let addItem = (event) => { 
@@ -22,12 +22,13 @@ let App = () => {
     return(<>
         <form onSubmit={addItem}>
            <div className="main_div">
-               <div className="center_div">
+               <div className="center_div2">
                    <br />
-                    <h1> To Do List</h1>
-                   <br />
-                   <input type="text" placeholder="Enter element" onChange={itemEvent} value={inputList}/>
-                   <button type="submit">+</button>
+                    <h2> To Do List</h2>
+                   <span>
+                        <input type="text" placeholder="Enter element" onChange={itemEvent} value={inputList}/>
+                        <button type="submit">+</button>
+                   </span>
                    <ol>
                        {items.map( ( val, index ) => {
                             return ( <Todo_list itemVal={val} key={index} id={index} onSelect={deleteItems}/>);
@@ -37,4 +38,4 @@ let App = () => {
            </div>
         </form>
     </> );
-}; export default App;
+}; export default TodoApp;
