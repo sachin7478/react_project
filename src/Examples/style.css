@@ -1,0 +1,15 @@
+.countDiv {
+    display:flex;
+    font-size: 50;
+    margin:10px 10px;
+    background-color: lightcyan;
+    padding:40px;
+
+}
+.countDiv button {
+    padding: 12px 40px;
+}
+.countDiv input {
+    font-size: 45 !important;
+    text-indent: 10mm;
+}
